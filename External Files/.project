@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>External Files</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>~2f57dab316a04434b</name>
+			<type>1</type>
+			<location>C:/Users/bogda/AppData/Local/Temp/~2f57dab316a04434b</location>
+		</link>
+		<link>
+			<name>~313a43c6b2b94a31a</name>
+			<type>1</type>
+			<location>C:/Users/bogda/AppData/Local/Temp/~313a43c6b2b94a31a</location>
+		</link>
+		<link>
+			<name>~82ee4b8b5f014e1db</name>
+			<type>1</type>
+			<location>C:/Users/bogda/AppData/Local/Temp/~82ee4b8b5f014e1db</location>
+		</link>
+		<link>
+			<name>~b4b86bf613d34662b</name>
+			<type>1</type>
+			<location>C:/Users/bogda/AppData/Local/Temp/~b4b86bf613d34662b</location>
+		</link>
+		<link>
+			<name>~cb92ffcf149748dba</name>
+			<type>1</type>
+			<location>C:/Users/bogda/AppData/Local/Temp/~cb92ffcf149748dba</location>
+		</link>
+	</linkedResources>
+</projectDescription>
